@@ -1,0 +1,15 @@
+# Ignore audio data and results
+data/*.wav
+data/*.m4a
+data/results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# macOS files
+.DS_Store
